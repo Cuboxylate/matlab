@@ -1,7 +1,7 @@
 A set of MATLAB functions written for a university assignment.
 Written in conjunction with my partner, github.com/denbeigh2000.
 
-The assingnment specifications are included, but the basic
+The assignment specifications are included, but the basic
 breakdown is as follows:
 
 question1a.m : Modelling and visualising the random walk of a 
